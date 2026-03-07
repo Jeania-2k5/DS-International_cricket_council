@@ -1,4 +1,5 @@
 📊 Data Science Assignments Repository
+
 📌 Overview
 
 This repository contains my Data Science and Data Analytics assignments completed as part of my coursework and learning journey. The assignments focus on data exploration, analysis, and visualization using Python.
@@ -35,7 +36,9 @@ Google Colab
 
 Jupyter Notebooks
 
+
 📂 Assignments
+
 1️⃣ International Cricket Council (ICC) Data Analysis
 
 📓 Notebook:
@@ -69,6 +72,7 @@ Match rivalry graphs
 
 Player performance graphs
 
+
 2️⃣ Python Libraries Exploration
 
 📓 Notebook:
@@ -97,6 +101,8 @@ Numerical operations
 Data visualization
 
 Analytical workflows
+
+
 
 📈 Skills Demonstrated
 
