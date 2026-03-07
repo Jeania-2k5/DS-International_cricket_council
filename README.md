@@ -1,121 +1,103 @@
-📊 Data Science Assignments Repository
 
-📌 Overview
+---
 
-This repository contains my Data Science and Data Analytics assignments completed as part of my coursework and learning journey. The assignments focus on data exploration, analysis, and visualization using Python.
+# 📊 Data Science Assignments Repository
+
+## 📌 Overview
+
+This repository contains my **Data Science and Data Analytics assignments** completed as part of my coursework and learning journey. The assignments focus on **data exploration, analysis, and visualization using Python**.
 
 The goal of this repository is to demonstrate practical skills in:
 
-Data cleaning
-
-Data exploration
-
-Statistical analysis
-
-Data visualization
-
-Working with real-world datasets
+* Data cleaning
+* Data exploration
+* Statistical analysis
+* Data visualization
+* Working with real-world datasets
 
 More assignments will be added to this repository as the course progresses.
 
-🛠 Technologies Used
+---
+
+# 🛠 Technologies Used
 
 The assignments in this repository use the following tools and libraries:
 
-Python
+* **Python**
+* **Pandas**
+* **NumPy**
+* **Matplotlib**
+* **Seaborn**
+* **Google Colab**
+* **Jupyter Notebooks**
 
-Pandas
+---
 
-NumPy
+# 📂 Assignments
 
-Matplotlib
-
-Seaborn
-
-Google Colab
-
-Jupyter Notebooks
-
-
-📂 Assignments
-
-1️⃣ International Cricket Council (ICC) Data Analysis
+## 1️⃣ International Cricket Council (ICC) Data Analysis
 
 📓 Notebook:
-https://colab.research.google.com/github/Jeania-2k5/Data_science/blob/main/International_Cricket_Council_(ICC).ipynb
+[https://colab.research.google.com/github/Jeania-2k5/Data_science/blob/main/International_Cricket_Council_(ICC).ipynb](https://colab.research.google.com/github/Jeania-2k5/Data_science/blob/main/International_Cricket_Council_%28ICC%29.ipynb)
 
-Description
+### Description
 
-This assignment analyzes a dataset containing 1417 international T20 cricket matches. The goal was to explore the dataset and extract meaningful insights using data analysis techniques.
+This assignment analyzes a dataset containing **1417 international T20 cricket matches**. The goal was to explore the dataset and extract meaningful insights using data analysis techniques.
 
-Tasks Performed
+### Tasks Performed
 
-Renamed dataset columns for clarity
+* Renamed dataset columns for clarity
+* Identified the **top venues hosting the most matches**
+* Found the **pair of teams that played the most matches against each other**
+* Calculated **team win percentages**
+* Built a **match scorecard generator function**
+* Created **data visualizations for insights**
 
-Identified the top venues hosting the most matches
+### Visualizations Included
 
-Found the pair of teams that played the most matches against each other
+* Venue comparison charts
+* Team performance charts
+* Match rivalry graphs
+* Player performance graphs
 
-Calculated team win percentages
+---
 
-Built a match scorecard generator function
-
-Created data visualizations for insights
-
-Visualizations Included
-
-Venue comparison charts
-
-Team performance charts
-
-Match rivalry graphs
-
-Player performance graphs
-
-
-2️⃣ Python Libraries Exploration
+## 2️⃣ Python Libraries Exploration
 
 📓 Notebook:
-https://colab.research.google.com/github/Jeania-2k5/Data_science/blob/main/Libraries.ipynb
+[https://colab.research.google.com/github/Jeania-2k5/Data_science/blob/main/Libraries.ipynb](https://colab.research.google.com/github/Jeania-2k5/Data_science/blob/main/Libraries.ipynb)
 
-Description
+### Description
 
-This notebook explores commonly used Python libraries for data science.
+This notebook explores commonly used **Python libraries for data science**.
 
-Libraries Covered
+### Libraries Covered
 
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
 The notebook demonstrates how these libraries are used for:
 
-Data manipulation
+* Data manipulation
+* Numerical operations
+* Data visualization
+* Analytical workflows
 
-Numerical operations
+---
 
-Data visualization
-
-Analytical workflows
-
-
-
-📈 Skills Demonstrated
+# 📈 Skills Demonstrated
 
 This repository demonstrates the following skills:
 
-Data preprocessing
+* Data preprocessing
+* Exploratory Data Analysis (EDA)
+* Data visualization
+* Python programming
+* Working with structured datasets
+* Analytical problem solving
 
-Exploratory Data Analysis (EDA)
+---
 
-Data visualization
 
-Python programming
-
-Working with structured datasets
-
-Analytical problem solving
