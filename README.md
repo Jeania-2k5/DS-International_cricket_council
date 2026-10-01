@@ -9,7 +9,7 @@
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-data%20analysis-150458?logo=pandas&logoColor=white" alt="Pandas"></a>
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-numerical%20computing-013243?logo=numpy&logoColor=white" alt="NumPy"></a>
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-visualization-11557C" alt="Matplotlib"></a>
-  <a href="https://github.com/Jeania-2k5/DS_ICC"><img src="https://img.shields.io/badge/license-not%20specified-lightgrey" alt="License not specified"></a>
+  <a href="https://github.com/Jeania-2k5/DS-International_cricket_council"><img src="https://img.shields.io/badge/license-not%20specified-lightgrey" alt="License not specified"></a>
 </p>
 
 </div>
@@ -27,8 +27,8 @@ The notebooks are useful as an approachable starting point for exploratory data 
 
 | Notebook | What it covers | Open |
 | --- | --- | --- |
-| `International_Cricket_Council_(ICC).ipynb` | ICC T20 match exploration, summary tables, charts, and scorecards | [View notebook](International_Cricket_Council_(ICC).ipynb) · [Open in Colab](https://colab.research.google.com/github/Jeania-2k5/DS_ICC/blob/main/International_Cricket_Council_%28ICC%29.ipynb) |
-| `Libraries.ipynb` | NumPy, Pandas, Matplotlib, and Seaborn practice examples | [View notebook](Libraries.ipynb) · [Open in Colab](https://colab.research.google.com/github/Jeania-2k5/DS_ICC/blob/main/Libraries.ipynb) |
+| `International_Cricket_Council_(ICC).ipynb` | ICC T20 match exploration, summary tables, charts, and scorecards | [View notebook](International_Cricket_Council_(ICC).ipynb) · [Open in Colab](https://colab.research.google.com/github/Jeania-2k5/DS-International_cricket_council/blob/main/International_Cricket_Council_%28ICC%29.ipynb) |
+| `Libraries.ipynb` | NumPy, Pandas, Matplotlib, and Seaborn practice examples | [View notebook](Libraries.ipynb) · [Open in Colab](https://colab.research.google.com/github/Jeania-2k5/DS-International_cricket_council/blob/main/Libraries.ipynb) |
 
 > **Data availability:** the notebooks reference `International_T20_Data.csv`, `imdb_data.csv`, and a `company_sales_data` path, but those data assets are not included in this repository. Add the required files in the expected working directory before running the affected cells.
 
@@ -105,8 +105,8 @@ No standalone image files are currently stored in the repository. The ICC notebo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Jeania-2k5/DS_ICC.git
-cd DS_ICC
+git clone https://github.com/Jeania-2k5/DS-International_cricket_council.git
+cd DS-International_cricket_council
 ```
 
 ### 2. Create an environment and install notebook dependencies
@@ -139,7 +139,7 @@ Open either notebook and run the cells in order. The ICC notebook has saved exec
 ## 📁 Repository Structure
 
 ```text
-DS_ICC/
+DS-International_cricket_council/
 ├── International_Cricket_Council_(ICC).ipynb  # ICC T20 exploration and scorecard analysis
 ├── Libraries.ipynb                             # NumPy, Pandas, Matplotlib, and Seaborn practice
 └── README.md                                   # Project documentation
@@ -163,4 +163,4 @@ No license is currently specified in this repository. Until one is added, assume
 
 ## ⭐ Support the Project
 
-If this notebook collection helps you learn data analysis, [star the repository](https://github.com/Jeania-2k5/DS_ICC) and share what you explored.
+If this notebook collection helps you learn data analysis, [star the repository](https://github.com/Jeania-2k5/DS-International_cricket_council) and share what you explored.
